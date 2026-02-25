@@ -178,7 +178,7 @@ export default function SEOAnalyzerDemo() {
           </div>
           {/* Nav CTA */}
           <a
-            href="mailto:team@irizpro.com"
+            href="https://api.whatsapp.com/send/?phone=15551611777&text=Hi+I+am+interested&type=phone_number&app_absent=0"
             style={{
               display: 'inline-flex', alignItems: 'center', gap: 6,
               padding: '7px 16px', borderRadius: 8,
@@ -202,12 +202,12 @@ export default function SEOAnalyzerDemo() {
 
         {/* Hero */}
         <div style={{ textAlign: 'center', marginBottom: 36 }}>
-          <span style={{
+          {/* <span style={{
             display: 'inline-block', marginBottom: 14,
             padding: '4px 14px', borderRadius: 99,
             background: 'rgba(34,197,94,0.1)', border: '1px solid rgba(34,197,94,0.28)',
             color: '#4ade80', fontSize: 11, fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase',
-          }}>Free Demo</span>
+          }}>Free Demo</span> */}
           <h1 style={{ fontSize: 'clamp(28px, 5vw, 44px)', fontWeight: 800, lineHeight: 1.15, marginBottom: 12 }}>
             SEO Content{' '}
             <span style={{
